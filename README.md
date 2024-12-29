@@ -11,12 +11,14 @@ I'm Jackson Tong
 - ⚙️ My tech stack includes:  
   - **Frontend**: HTML, CSS, TypeScript, React, Vue.js, TailwindCSS  
   - **Backend**: PHP, Laravel, Go, Node.js, Express  
-  - **Database**: MySQL, MongoDB  
-  - **DevOps & Cloud**: Docker, Google Cloud, CI/CD Pipelines  
+  - **Database**: MySQL, MongoDB, Redis  
+  - **DevOps & Cloud**: Docker, Google Cloud, Ansible, Terraform, CI/CD Pipelines  
 
 ---
 
 ### 🛠️ Tools I Love  
+- **Desktop**: Linux Mint  
+- **Server**: Debian, Ansible, Terraform
 - **Editors**: VSCode, PHPStorm  
 - **Environments**: Docker  
 - **Browsers**: Chrome  
@@ -30,6 +32,6 @@ I'm Jackson Tong
 ---
 
 ### 🔗 Let's Connect!  
-- 💼 [LinkedIn](https://linkedin.com/in/jacksontong2704)
-- 🌐 [My Blog](https://jacksontong.github.io)
-- 📫 Reach me: [tongtoan2704@gmail.com](mailto:tongtoan2704@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/yourhandle)  
+- 🌐 [My Blog](https://jacksontong.github.io/)  
+- 📫 Reach me: [yourname@example.com](mailto:yourname@example.com)  

@@ -34,4 +34,4 @@ I'm Jackson Tong
 ### 🔗 Let's Connect!  
 - 💼 [LinkedIn](https://linkedin.com/in/jacksontong2704)  
 - 🌐 [My Blog](https://jacksontong.github.io/)  
-- 📫 Reach me: [yourname@example.com](mailto:tongtoan2704@gmail.com)  
+- 📫 Reach me: [tongtoan2704@gmail.com](mailto:tongtoan2704@gmail.com)  
